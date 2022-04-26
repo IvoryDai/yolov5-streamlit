@@ -2,11 +2,11 @@
 
 Deploy [YOLOv5](https://github.com/ultralytics/yolov5/releases/tag/v5.0) detection with [Streamlit](https://github.com/streamlit/streamlit)
 
-博文地址： <https://xugaoxiang.com/2021/08/27/yolov5-streamlit/>
+Reference： <https://xugaoxiang.com/2021/08/27/yolov5-streamlit/>
 
 # 线上体验
 
-直接访问 <https://share.streamlit.io/xugaoxiang/yolov5-streamlit/main/main.py>
+直接访问 <https://share.streamlit.io/ivorydai/yolov5-streamlit/main.py>
 
 # 安装依赖
 
